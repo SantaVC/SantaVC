@@ -25,10 +25,10 @@
       <ul>
         <li><strong>Languages:</strong> Russian (Native), English (Intermediate), Czech (Intermediate)</li>
         <li><strong>Programming Languages:</strong> Python, C#, C, PHP, AL</li>
-        <li><strong>Web Technologies:</strong> HTML, CSS, JavaScript, PHP</li>
+        <li><strong>Web Technologies:</strong> HTML, CSS, JavaScript</li>
         <li><strong>Database Technologies:</strong> SQL, SqLite</li>
         <li><strong>Frameworks:</strong> Scrum, Kanban, Entity Framework, Bootstrap, Laravel, WordPress, Xamarin, Flutter</li>
-        <li><strong>Tools:</strong> Git, MySQL, Linux, Wolfram Mathematica, Trello, GitHub</li>
+        <li><strong>Tools:</strong> Git, MySQL, Linux, Wolfram Mathematica, Trello, GitHub, Jira</li>
       </ul>
     <h2>📚 Education</h2>
     <ul>
