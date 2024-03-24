@@ -7,7 +7,7 @@
     <ul>
         <li><b>Product Developer</b> at <a href="(https://www.navisys.cz">Navisys</a> (Oct 2023 - Present)
             <ul>
-                <li>roduct Developer at Microsoft Business Dynamics: Building and updating application modules, leveraging Docker, Microsoft Azure, and Jira for efficient development, with a focus on optimizing performance.</li>
+                <li>Product Developer at Microsoft Business Dynamics: Building and updating application modules, leveraging Docker, Microsoft Azure, and Jira for efficient development, with a focus on optimizing performance.</li>
             </ul>
         </li>
         <li><b>Data Annotator</b> at <a href="https://www.luxoft.com">Luxoft</a> (Aug 2021 - Oct 2021)
