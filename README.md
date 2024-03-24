@@ -5,6 +5,11 @@
     <p>Hello! 👋 My name is Ivan, a Software Engineer and an aspiring student at Tomas Bata University. I thrive in challenging environments and I am always ready to take on new projects. I enjoy diving into different frameworks and bringing my expertise to the table to create meaningful and impactful products. I am fluent in Russian and I have intermediate proficiency in English and Czech.</p>
     <h2>🔭 Work Experience</h2>
     <ul>
+        <li><b>Product Developer</b> at <a href="(https://www.navisys.cz">Navisys</a> (Oct 2023 - Present)
+            <ul>
+                <li>roduct Developer at Microsoft Business Dynamics: Building and updating application modules, leveraging Docker, Microsoft Azure, and Jira for efficient development, with a focus on optimizing performance.</li>
+            </ul>
+        </li>
         <li><b>Data Annotator</b> at <a href="https://www.luxoft.com">Luxoft</a> (Aug 2021 - Oct 2021)
             <ul>
                 <li>Worked with a team on improving unmanned devices using Agile Kanban methodology.</li>
@@ -22,7 +27,7 @@
         <li><strong>Programming Languages:</strong> Python, C#, C, PHP, AL</li>
         <li><strong>Web Technologies:</strong> HTML, CSS, JavaScript, PHP</li>
         <li><strong>Database Technologies:</strong> SQL, SqLite</li>
-        <li><strong>Frameworks:</strong> Scrum, Kanban, Entity Framework, Bootstrap, Laravel, WordPress, Xamarin</li>
+        <li><strong>Frameworks:</strong> Scrum, Kanban, Entity Framework, Bootstrap, Laravel, WordPress, Xamarin, Flutter</li>
         <li><strong>Tools:</strong> Git, MySQL, Linux, Wolfram Mathematica, Trello, GitHub</li>
       </ul>
     <h2>📚 Education</h2>
