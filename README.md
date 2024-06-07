@@ -32,7 +32,7 @@
       </ul>
     <h2>📚 Education</h2>
     <ul>
-        <li><a href="https://www.utb.cz/en/">Tomas Bata University in Zlin</a> (Software Engineering) (Sept 2021 - Present)</li>
+        <li><a href="https://www.utb.cz/en/">Tomas Bata University in Zlin</a> (Software Engineering) (Sept 2021 - Jun 2024)</li>
         <li>Omsk College of Motor Transport (Computer Science) (Sept 2016 - Jun 2020)</li>
     </ul>
     <h2>🚀 Personal Projects</h2>
