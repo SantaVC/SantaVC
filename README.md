@@ -7,7 +7,8 @@
     <ul>
         <li><b>Backend Developer</b> at <a href="https://www.navisys.cz">Navisys</a> (April 2024 - Present)
             <ul>
-                <li>Product Developer at Microsoft Business Dynamics: Building and updating application modules, leveraging Docker, Microsoft Azure, and Jira for efficient development, with a focus on optimizing performance.</li>
+                <li>Developing and maintaining web platform modules using NestJS, TypeScript, REST APIs, Swagger, Git, GitHub, Docker, and Redis.</li>
+                <li>Working within Scrum framework for efficient project management.</li>
             </ul>
         </li>
         <li><b>Product Developer</b> at <a href="https://www.navisys.cz">Navisys</a> (Oct 2023 - April 2024)
