@@ -5,15 +5,10 @@
     <p>Hello! 👋 My name is Ivan, a Software Engineer. I thrive in challenging environments and I am always ready to take on new projects. I enjoy diving into different frameworks and bringing my expertise to the table to create meaningful and impactful products. I am fluent in Russian and I have intermediate proficiency in English and Czech.</p>
     <h2>🔭 Work Experience</h2>
     <ul>
-        <li><b>Backend Developer</b> at <a href="https://www.navisys.cz">Navisys</a> (April 2024 - Present)
+        <li><b>Backend Developer</b> at <a href="https://www.navisys.cz">Navisys</a> (Sep 2024 - Present)
             <ul>
                 <li>Developing and maintaining web platform modules using NestJS, TypeScript, REST APIs, Swagger, Git, GitHub, Docker, and Redis.</li>
                 <li>Working within Scrum framework for efficient project management.</li>
-            </ul>
-        </li>
-        <li><b>Product Developer</b> at <a href="https://www.navisys.cz">Navisys</a> (Oct 2023 - April 2024)
-            <ul>
-                <li>Product Developer at Microsoft Business Dynamics: Building and updating application modules, leveraging Docker, Microsoft Azure, and Jira for efficient development, with a focus on optimizing performance.</li>
             </ul>
         </li>
         <li><b>Data Annotator</b> at <a href="https://www.luxoft.com">Luxoft</a> (Aug 2021 - Oct 2021)
