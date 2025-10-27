@@ -49,7 +49,6 @@
     <p>Aside from my professional life, I love to travel, drive, and immerse myself in different cultures - Japan holds a special place in my heart. Computer games are my pastime favorites, and I used to play hockey.</p>
     <h2>📬 Contact Me</h2>
     <p>Email: <a href="mailto:goriakinivandev@gmail.com">goriakinivandev@gmail.com</a></p>
-    <p>Portfolio: <a href="https://santavc.github.io/goriakin-cv.me/">goriakin-cv.me</a></p>
     <p>Phone: +(420)774-264-456</p>
     <p>Thanks for stopping by! 😊</p>
 </body>
