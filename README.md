@@ -1,55 +1,49 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <h1>Ivan Goriakin</h1>
-    <p>Hello! 👋 My name is Ivan, a Software Engineer. I thrive in challenging environments and I am always ready to take on new projects. I enjoy diving into different frameworks and bringing my expertise to the table to create meaningful and impactful products. I am fluent in Russian and I have intermediate proficiency in English and Czech.</p>
-    <h2>🔭 Work Experience</h2>
-    <ul>
-        <li><b>Backend Developer</b> at <a href="https://www.navisys.cz">Navisys</a> (Sep 2023 - Present)
-            <ul>
-                <li>Developing and maintaining web platform modules using NestJS, TypeScript, REST APIs, Swagger, Git, GitHub, Docker, and Redis.</li>
-                <li>Working within Scrum framework for efficient project management.</li>
-            </ul>
-        </li>
-        <li><b>Data Annotator</b> at <a href="https://www.luxoft.com">Luxoft</a> (Aug 2021 - Oct 2021)
-            <ul>
-                <li>Worked with a team on improving unmanned devices using Agile Kanban methodology.</li>
-            </ul>
-        </li>
-        <li><b>Oracle Developer</b> at <a href="https://www.raiffeisen.ru/en/">Raiffeisen Bank Russia</a> (Nov 2018 - Mar 2019)
-            <ul>
-                <li>Collaborated in a team for bank's needs using Agile Scrum, PL/SQL, PostgreSQL, SQL.</li>
-            </ul>
-        </li>
-    </ul>
-    <h2>🛠️ Skills</h2>
-      <ul>
-        <li><strong>Languages:</strong> Russian (Native), English (Intermediate), Czech (Intermediate)</li>
-        <li><strong>Programming Languages:</strong> Python, C#, C, PHP, AL, TypeScript</li>
-        <li><strong>Web Technologies:</strong> HTML, CSS, JavaScript</li>
-        <li><strong>Database Technologies:</strong> SQL, SqLite, PostgreSQL</li>
-        <li><strong>Frameworks:</strong> Scrum, Kanban, Entity Framework, Bootstrap, Laravel, WordPress, Xamarin, Flutter, NestJS</li>
-        <li><strong>Tools:</strong> Git, Linux, Trello, GitHub, Jira</li>
-      </ul>
-    <h2>📚 Education</h2>
-    <ul>
-        <li><a href="https://www.utb.cz/en/">Tomas Bata University in Zlin</a> (Software Engineering) (Sept 2021 - Jun 2024)</li>
-        <li>Omsk College of Motor Transport (Computer Science) (Sept 2016 - Jun 2020)</li>
-    </ul>
-    <h2>🚀 Personal Projects</h2>
-    <ul>
-        <li><a href="https://play.google.com/store/apps/details?id=com.yukiprojects.kanapractices">Kana Practice</a> by YukiProjects (Android, Xamarin, SqLite, SQL, C#, XAML, GitHub, Agile, Kanban, Trello, Google Play)</li>
-        <li><a href="https://play.google.com/store/apps/details?id=com.yukiprojects.koreanproject">Korean Practice</a> by YukiProjects (Android, Xamarin, SqLite, SQL, C#, XAML, GitHub, Agile, Kanban, Trello, Google Play)</li>
-    </ul>
-    <h2>🏆 Hackathons & Events</h2>
-    <ul>
-        <li><a href="https://visiongame.cz/studio/game-jam-zlin-2023/">Game Jam 2023</a> (March 2023) - Our team won first place with the game <a href="https://chetsoff.itch.io/hades-eternal-gift">Hades Eternal Gift</a>. (C#, Unity, Git, Itch)</li>
-    </ul>
-    <h2>🌎 A Little More About Me</h2>
-    <p>Aside from my professional life, I love to travel, drive, and immerse myself in different cultures - Japan holds a special place in my heart. Computer games are my pastime favorites, and I used to play hockey.</p>
-    <h2>📬 Contact Me</h2>
-    <p>Email: <a href="mailto:goriakinivandev@gmail.com">goriakinivandev@gmail.com</a></p>
-    <p>Phone: +(420)774-264-456</p>
-    <p>Thanks for stopping by! 😊</p>
-</body>
-</html>
+# Ivan Goriakin — Software Engineer
+
+Hi! I'm Ivan, a backend engineer based in Brno 🇨🇿.  
+I work with **NestJS**, **TypeScript**, **PostgreSQL**, **Redis**, **Docker**, and complex modular architectures (CQRS, event-driven flows, distributed caching).
+
+👉 **Portfolio & CV:** www.ivan-goriakin.tech
+
+---
+
+## 🚀 Experience
+- **Navisys — Backend Developer (2023 → now)**  
+  Working on enterprise-level backend modules (NestJS, TS, PostgreSQL, Kysely/Sequelize, Redis, Docker, Elasticsearch, MinIO).
+
+- **Luxoft — Data Annotator (2021)**  
+  Computer-vision dataset labeling for autonomous systems.
+
+- **Raiffeisen Bank — Oracle Developer (2018–2019)**  
+  PL/SQL procedures, data migrations, reporting.
+
+---
+
+## 🔧 Tech stack
+**Languages:** TypeScript, Python, C#, C  
+**Backend:** NestJS, Node.js, PostgreSQL, Redis, Docker  
+**Other:** Elasticsearch, MinIO, GitHub Actions, Linux  
+**Mobile:** Xamarin / Android  
+**QA:** Jest, E2E testing  
+
+---
+
+## 📚 Education
+- **Tomas Bata University — Software Engineering (2021–2024)**
+- **Omsk College of Motor Transport — Computer Science (2016–2020)**
+
+---
+
+## 🧩 Personal projects
+- **Kana Practice / Korean Practice** — mobile apps for language learning  
+- **Hades Eternal Gift** — Game Jam winner (Unity, C#)
+
+---
+
+## 📬 Contact
+Email: **goriakinivandev@gmail.com**  
+LinkedIn: https://linkedin.com/in/ivan-goriakin
+
+---
+
+Thanks for checking out my profile!
