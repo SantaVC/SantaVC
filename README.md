@@ -3,8 +3,6 @@
 Hi! I'm Ivan, a backend engineer based in Brno 🇨🇿.  
 I work with **NestJS**, **TypeScript**, **PostgreSQL**, **Redis**, **Docker**, and complex modular architectures (CQRS, event-driven flows, distributed caching).
 
-👉 **Portfolio & CV:** www.ivan-goriakin.tech
-
 ---
 
 ## 🚀 Experience
